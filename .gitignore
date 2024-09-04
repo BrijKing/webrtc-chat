@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+venv/
+.DS_Store
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# Database
+*.sqlite3
+
+# Docker
+.env.docker
+docker-compose.override.yml
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+# Unit test / coverage reports
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
